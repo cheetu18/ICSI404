@@ -1,3 +1,3 @@
 # ICSI404
 
-"Assembler" project in Java. 
+ICSI404 Project 
